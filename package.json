@@ -1,0 +1,22 @@
+{
+  "name": "research",
+  "version": "1.0.0",
+  "description": "do something",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "graceful-fs": "^4.2.11",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "monent": "^0.0.2-security",
+    "ms": "^2.1.2",
+    "simple-git": "^3.21.0",
+    "universalify": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
